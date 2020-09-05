@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ran Long"
-  avatar           : "profile.jpg"
+  name             : "Ran Long" 
+  avatar           : "profile.jpg" 
   bio              : "PhD Student at the University of Edinburgh"
   location         : "Edinburgh"
   employer         :
