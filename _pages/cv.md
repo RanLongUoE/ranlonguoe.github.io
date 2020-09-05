@@ -34,3 +34,4 @@ Skills
   * C++, C
   * Python
   * Java
+* Pytorch, Tensorflow
