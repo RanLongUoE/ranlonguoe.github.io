@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physcia, Tsinghua Univeristy, Beijing, 2015
-* Ph.D in informatics, the University of Edinburgh, Edinburgh, 2023 (expected)
+* B.S. in Mathematics and Physics, Tsinghua Univeristy, Beijing, 2019
+* Ph.D in Informatics, the University of Edinburgh, Edinburgh, 2023 (expected)
 
 Work experience
 ======
