@@ -8,6 +8,6 @@ simple parameterisable geometric representation, and 2) is much more robust comp
 date: 2022-01-01
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://arxiv.org/pdf/2204.11923.pdf'
-citation: 'Sparse-Dense Motion Modelling and Tracking for Manipulation without Prior Object Models, IEEE Robotics and Automation Letters (RA-L), 2022'
+citation: 'Christian Rauch, Ran Long, Vladimir Ivan and Sethu Vijayakumar, Sparse-Dense Motion Modelling and Tracking for Manipulation without Prior Object Models, IEEE Robotics and Automation Letters (RA-L), 2022'
 ---
 
