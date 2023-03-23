@@ -6,6 +6,6 @@ permalink: /publication/PlanarFusion
 date: 2022-07-01
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/9806165'
-citation: 'R. Long, C. Rauch, T. Zhang, V. Ivan, T. L. Lam and S. Vijayakumar, "RGB-D SLAM in Indoor Planar Environments With Multiple Large Dynamic Objects," in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 8209-8216, July 2022, doi: 10.1109/LRA.2022.3186091.'
+citation: '<ins>Ran Long</ins>, Christian Rauch, Tianwei Zhang, Vladimir Ivan, Tin Lun Lam and Sethu Vijayakumar, "RGB-D SLAM in Indoor Planar Environments With Multiple Large Dynamic Objects," in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 8209-8216, July 2022, doi: 10.1109/LRA.2022.3186091.'
 ---
 

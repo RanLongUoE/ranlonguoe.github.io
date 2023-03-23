@@ -7,6 +7,6 @@ permalink: /publication/SD-Fusion
 date: 2022-04-11
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/9864140'
-citation: 'Christian Rauch, \textbf{Ran Long}, Vladimir Ivan and Sethu Vijayakumar, "Sparse-Dense Motion Modelling and Tracking for Manipulation Without Prior Object Models," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 11394-11401, Oct. 2022, doi: 10.1109/LRA.2022.3200177.'
+citation: 'Christian Rauch, <ins>Ran Long</ins>, Vladimir Ivan and Sethu Vijayakumar, "Sparse-Dense Motion Modelling and Tracking for Manipulation Without Prior Object Models," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 11394-11401, Oct. 2022, doi: 10.1109/LRA.2022.3200177.'
 ---
 
